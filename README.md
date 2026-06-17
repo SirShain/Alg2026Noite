@@ -14,3 +14,4 @@ email: pandrade@uva.br
 3° - Pedro Tavernard Wrencher Batista
 4° - Alexsandro da Silva Almeida Junior
 5° - Thiago de Oliveira Soares
+6° - Matheus Araújo Fernandes Soares
